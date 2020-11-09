@@ -1,11 +1,9 @@
-# Exo-14-HTML-balises-all
+# Exo-12-HTML-Div
 
 ## Exo
 
-A l'aide des différents pdf du cours, testez une a une TOUTES les balises que nous avons vues, une baise par ligne.
+Créez une nouvelle page HTML et montrez moi que vous avez compris l'utilisation des balises div en construisant un menu ( sans balise nav ) et une page contenant au moins 15 divs.
 
-Testez également pour chaque balise chaque attribut quand cela est possible
+Le règle est simple mais il doit y avoir un minimum de contenu.
 
-La règle est simple: une balise ou une balise avec attribut = 1 ligne ( de manière à ce que je puisse voir, même si ca ne fonctionne pas )
-
-PS: Aidez vous de l'attribut style pour les éléments de blocs si vous ne voyez pas la délimitation.
+Bonus: Appliquer du style à vos divs ( en introduction au CSS ).
